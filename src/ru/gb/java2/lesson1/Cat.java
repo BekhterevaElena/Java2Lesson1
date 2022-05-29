@@ -18,9 +18,9 @@ public class Cat implements Action {
     }
 
     public void run() {
-        System.out.println("Run!!!");
+        System.out.println("cat Run!!!");
     }
     public void jump() {
-        System.out.println("Jump!!!");
+        System.out.println("cat Jump!!!");
     }
 }
