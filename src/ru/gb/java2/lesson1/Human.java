@@ -18,9 +18,9 @@ public class Human implements Action {
     }
 
     public void run() {
-        System.out.println("Run!!!");
+        System.out.println("human Run!!!");
     }
     public void jump() {
-        System.out.println("Jump!!!");
+        System.out.println("human Jump!!!");
     }
 }

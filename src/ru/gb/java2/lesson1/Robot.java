@@ -18,9 +18,9 @@ public class Robot implements Action{
     }
 
     public void run() {
-        System.out.println("Run!!!");
+        System.out.println("robot Run!!!");
     }
     public void jump() {
-        System.out.println("Jump!!!");
+        System.out.println("robot Jump!!!");
     }
 }
